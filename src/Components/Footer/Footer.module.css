@@ -1,0 +1,45 @@
+.footer {
+
+  background-color: #2C3E50;
+  color: white;
+  padding: 99px 0 0 0;
+
+}
+
+.footerContainer {
+  display: flex;
+  justify-content: center;
+  gap: 150px;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  margin-left: 95px;
+  margin-bottom: 85px; 
+}
+
+.footerCol {
+  text-align: center;
+}
+
+.footerCol h4 {
+  font-weight: 500;
+  font-size: 28px;
+}
+
+.iconCircle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border: 1px solid white;
+  border-radius: 50%;
+  margin: 0 6px;
+  color: white !important;
+}
+
+.footBottom {
+  background-color: #19222c;
+  width: 100%;
+  padding: 15px 0; 
+  text-align: center;
+}
