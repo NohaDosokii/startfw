@@ -1,8 +1,5 @@
-# DevFolio Project
 
-## 🚀 Live Demo
+يمكنك معاينة المشروع مباشرة من خلال الروابط التالية:
 
-يمكنك معاينة المشروع من الروابط التالية:
-
-* **Vercel (الموقع الأساسي):** [Click here to view](https://startfw-ducy.vercel.app)
-* **GitHub Pages (رابط احتياطي):** [Click here to view](https://NohaDosokii.github.io/DevFolio/)
+* **Vercel (Primary):** [View Live Site](https://startfw-jpb1.vercel.app)
+* **GitHub Pages:** [View Live Site](https://NohaDosokii.github.io/startfw/)
